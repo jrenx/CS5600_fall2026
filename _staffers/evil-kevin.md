@@ -1,7 +1,7 @@
 ---
-name: Shuyi Lin
+name: Yao Xu
 role: Teaching Assistant
-email: lin dot shuyi at northeastern dot edu
+email: xu dot yao1 at husky dot neu dot edu
 meta:
-  Office Hours: Friday 2:30-4:30pm Location Online
+  Office Hours: TBD
 ---
