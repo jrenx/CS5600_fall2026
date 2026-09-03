@@ -2,19 +2,14 @@
 title:
 ---
 
-Mar 10
+ Nov 10
 
-: **Lecture**{: .label .label-purple } [Semaphore & Partition, Segmentation, Paging](#)
+: **Lecture**{: .label .label-purple } [Address translation, Page table, Smaller page table & Demand Paging, Mem Techniques](#)
 
-Mar 11
 
-: **Release**{: .label .label-green } [Lab4](#)
+Nov 12
 
-Mar 12
-
-: **Lecture**{: .label .label-purple } [Partition, Segmentation, Paging](#)
-
-: **Due**{: .label .label-red } [Lab3](#)
+: **Lecture**{: .label .label-purple } [Demand paging, Mem techniques](#)
 
 
 
