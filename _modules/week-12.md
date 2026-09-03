@@ -2,15 +2,12 @@
 title:
 ---
 
-Mar 24
-
-: **Quiz3**{: .label .label-red } [Lab3 and Memory Management](#)
-
-: **Lecture**{: .label .label-purple } [Demand paging, Mem techniques](#)
-
-
-Mar 26
+Nov 17
 : **Lecture**{: .label .label-purple } [Page Replacement Algorithms](#)
+
+
+Nov 19
+: **Lecture**{: .label .label-purple } [IO, File system](#)
 
 
 
