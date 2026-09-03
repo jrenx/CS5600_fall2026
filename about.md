@@ -37,14 +37,17 @@ https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf
 Slides for each class will be posted on Canvas prior to class.
 
 ## Grades
+The course grade will consist of five lab assignments (35% total; 7% each), a midterm exam (25%), and a final exam (40%).
 
-This course will consist of 35% lab assignments (5 lab assignments, 7% each), 20% quizzes (5 quizzes, 4% each), 15% midterm and 30% final exam.
-Please see "Calendar" for the release and due dates for labs, dates for quizzes, the midterm and the final exam.
-The quizzes will take place at the beginning of lectures, and the midterm and final will take the duration of the entire lecture and will be hosted in the classroom. 
+Please refer to the “Calendar” for the release and due dates of the lab assignments and the dates of the midterm and final exams.
+
+Both exams will take place in the classroom and last for the entire lecture period.
+
+Bonuses: If you provide an answer on Piazza that is endorsed by an instructor, you will receive a 0.5% bonus, up to a maximum of 1%.
 
 ## Getting help
 
-If you have questions about the lab assignments, including questions on how to set up, compile, implement, debug the lab, please ask them on Piazza and/or attend the TA's office hour.
+If you have questions about the lab assignments—including how to set up, compile, implement, or debug them—please post them on Piazza or attend the TAs’ office hours.
 
 ## Cheating
 
@@ -52,4 +55,4 @@ You should work independently on the lab assignments. You can discuss with fello
 
 ## Late Assignments
 
-You will be given 5 day ``late credits'' for all assignments. Once the late credits are used up, late assignments will not be accepted unless for extremely exceptional circumstances.
+You will receive five ``late days'' that may be used across all assignments. Once they have been exhausted, late submissions will not be accepted except under exceptional circumstances.
