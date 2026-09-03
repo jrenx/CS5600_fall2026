@@ -2,11 +2,11 @@
 title:
 ---
 
-Feb 24
-: **Lecture**{: .label .label-gray  } [Review for Midterm](#)
-
-Feb 26
+Oct 27
 : **Midterm Exam**{: .label .label-red } [Midterm](#)
+
+Oct 29
+: **Lecture**{: .label .label-purple } [Semaphore & Partition, Segmentation, Paging](#)
 
 
 
