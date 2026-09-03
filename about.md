@@ -21,17 +21,19 @@ description: >-
 Hi. Welcome to CS5600 Fall 2026!
 
 ## Textbook
-The course will mainly follow this textbook: Operating Systems Three Easy Pieces by Andrea and Remzi Arpaci-Dusseau
-https://pages.cs.wisc.edu/~remzi/OSTEP/
-https://techiefood4u.wordpress.com/wp-content/uploads/2020/02/operating_systems_three_easy_pieces.pdf
+The course will primarily follow *Operating Systems: Three Easy Pieces* by Andrea Arpaci-Dusseau and Remzi Arpaci-Dusseau:
 
-And we'll cover the following chapters: 2, 4, 5, 6, 7, 8, 9, 13, 14, 15, 16, 18, 19, 20, 21, 22, 26, 27, 28, 30, 31, 32, 36, 37, 38, 39, 40, 41, 42, 43, 53, 54, 55
+- [Official website](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [PDF version](https://techiefood4u.wordpress.com/wp-content/uploads/2020/02/operating_systems_three_easy_pieces.pdf)
 
-Supplementary textbook: Modern Operating Systems by Andrew S. Tanenbaum
-https://os.ecci.ucr.ac.cr/slides/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf
+We will cover Chapters 2, 4–9, 13–16, 18–22, 26–28, 30–32, 36–43, and 53–55.
 
-Supplementary textbook: Computer Systems: A Programmer's Perspective by Randal E. Bryant and David R. O'Hallaron
-https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf
+### Supplementary Textbooks
+
+- *Modern Operating Systems* by Andrew S. Tanenbaum ([PDF](https://os.ecci.ucr.ac.cr/slides/Andrew-S.-Tanenbaum-Modern-Operating-Systems.pdf))
+- *Computer Systems: A Programmer’s Perspective* by Randal E. Bryant and David R. O’Hallaron ([PDF](https://www.cs.sfu.ca/~ashriram/Courses/CS295/assets/books/CSAPP_2016.pdf))
+
+
 
 ## Slides
 Slides for each class will be posted on Canvas prior to class.
