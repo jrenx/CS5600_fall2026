@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-Hi. Welcome to CS5600 Spring 2026!
+Hi. Welcome to CS5600 Fall 2026!
 
 ## Textbook
 The course will mainly follow this textbook: Operating Systems Three Easy Pieces by Andrea and Remzi Arpaci-Dusseau
