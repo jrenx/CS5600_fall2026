@@ -47,6 +47,26 @@ Both exams will take place in the classroom and last for the entire lecture peri
 
 Bonuses: If you provide an answer on Piazza that is endorsed by an instructor, you will receive a 0.5% bonus, up to a maximum of 1%.
 
+## Grade conversion
+You will receive a final numerical grade out of 100%. Your numerical grade will be converted to a letter grade according to [Northeastern University’s grade scale](https://catalog.northeastern.edu/graduate/academic-policies-procedures/records-transcripts/), as shown below.
+
+**Do not rely on the total grade displayed in Canvas, as it may not accurately reflect your final course grade.**
+
+| Letter Grade | At Most | Greater Than |
+|:------------:|:-------:|:------------:|
+| A  | 100.000% | 91.675% |
+| A− | 91.675%  | 83.325% |
+| B+ | 83.325%  | 75.000% |
+| B  | 75.000%  | 66.675% |
+| B− | 66.675%  | 58.325% |
+| C+ | 58.325%  | 50.000% |
+| C  | 50.000%  | 41.675% |
+| C− | 41.675%  | 33.325% |
+| D+ | 33.325%  | 25.000% |
+| D  | 25.000%  | 16.675% |
+| D− | 16.675%  | 0.000%  |
+| F  | 0.000%   | —       |
+
 ## Getting help
 
 If you have questions about the lab assignments—including how to set up, compile, implement, or debug them—please post them on Piazza or attend the TAs’ office hours.
