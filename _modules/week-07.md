@@ -8,7 +8,7 @@ Oct 20
 
 
 Oct 22
-: **Lecture**{: .label .label-purple } [Condition Variables, Monitors, Semaphores](#)
+: **Lecture**{: .label .label-purple } [Review for midterm](#)
 
 
 
