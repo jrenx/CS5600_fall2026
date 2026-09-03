@@ -2,7 +2,7 @@
 title:
 ---
 
-Jan 08
-: **Lecture**{: .label .label-purple }[Introduction, And Overview of Hardware & OS](#)
+Sep 09
 : **Release**{: .label .label-green } [Lab1](#)
-
+Sep 10
+: **Lecture**{: .label .label-purple }[Introduction and Overview of Hardware & OS](#)
