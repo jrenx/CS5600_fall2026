@@ -2,11 +2,12 @@
 title:
 ---
 
-Mar 03
-: [Spring break, No class](#)
+Nov 03
+: **Lecture**{: .label .label-purple } [Partition, Segmentation, Paging](#)
 
-Mar 05
-: [Spring break, No class](#)
+
+Nov 05
+: **Lecture**{: .label .label-purple } [Address translation, Page table, Smaller page table](#)
 
 
 
