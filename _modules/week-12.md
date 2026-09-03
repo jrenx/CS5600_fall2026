@@ -10,7 +10,7 @@ Nov 24
 : **Lecture**{: .label .label-purple } [Page Replacement Algorithms](#)
 
 Nov 26
-: Fall break, not classes
+: [Fall break, No class](#)
 
 
 
