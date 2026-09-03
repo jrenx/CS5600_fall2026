@@ -2,19 +2,13 @@
 title:
 ---
 
-Apr 07
+Dec 08
+: **Lecture**{: .label .label-purple } [Security, Review](#)
 
-: **Lecture**{: .label .label-purple } [Crash Consistency, Log-Structured File System](#)
+Dec 10
+: **Lecture**{: .label .label-purple } [Review](#)
 
-
-Apr 09
-: **Quiz4**{: .label .label-red } [Lab3, Lab4 and File system](#)
-
-: **Lecture**{: .label .label-purple } [Log-Structured File System, Security](#)
-
-
-
-
-
+Dec 11
+: **Due**{: .label .label-red } [Lab5](#)
 
 
