@@ -25,13 +25,13 @@ schedule:
       - name: Lecture
         start: 11:45 AM
         end: 1:25 PM
-        location: Snell Library 039
+        location: Shillman Hall 320
   - name: Wednesday
   - name: Thursday
     events:
       - name: Lecture
         start: 2:50 PM
         end: 4:30 PM
-        location: Snell Library 039
+        location: Shillman Hall 320
   - name: Friday
 ---
