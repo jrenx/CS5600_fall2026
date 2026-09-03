@@ -3,10 +3,10 @@ title:
 ---
 
 Mar 17
-: **Lecture**{: .label .label-purple } [Address translation, Page table, Smaller page table](#)
+: **Lecture**{: .label .label-purple } [Page Replacement Algorithms](#)
 
 Mar 19
-: **Lecture**{: .label .label-purple } [Address translation, Page table, Smaller page table & Demand Paging, Mem Techniques](#)
+: **Lecture**{: .label .label-purple } [IO, File Systems](#)
 
 
 
