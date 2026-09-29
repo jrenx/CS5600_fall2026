@@ -3,7 +3,7 @@ title:
 ---
 
 Oct 20
-: **Lecture**{: .label .label-purple } [Condition Variables, Monitors, Semaphores](#)
+: **Lecture**{: .label .label-gray } [Review for midterm](#)
 
 
 
