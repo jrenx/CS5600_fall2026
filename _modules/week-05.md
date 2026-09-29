@@ -3,7 +3,7 @@ title:
 ---
 
 Oct 06
-: **Lecture**{: .label .label-purple } [Race conditions, Mutual exclusion, How to use locks](#)
+: **Lecture**{: .label .label-purple } [Race conditions, Mutual exclusion, How to use locks, How to build a lock, Dead locks](#)
 
 Oct 07
 : **Due**{: .label .label-red } [Lab2](#)
