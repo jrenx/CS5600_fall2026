@@ -10,7 +10,7 @@ Sep 23
 : **Release**{: .label .label-green } [Lab2](#)
 
 Sep 24
-: **Lecture**{: .label .label-purple } [Process States, Context switch, Shell](#)
+: **Lecture**{: .label .label-purple } [Context switch, Threads](#)
 
 
 
