@@ -10,4 +10,4 @@ Oct 13
 
 Oct 15
 
-: **Lecture**{: .label .label-purple } [Review for midterm](#)
+: **Lecture**{: .label .label-gray } [Review for midterm](#)
